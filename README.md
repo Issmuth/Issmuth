@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ismael
+- 👀 I’m have interst in art🎨, web development and all things tech
+- 👨‍🎓 I’m currently learning computer science at Hawassa university as well as the online ALX software engineering program 
+- 📫 you can find me: twitter and telegram through the same username @issmuth or through my email ismael.mdev@gmail.com
