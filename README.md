@@ -1,3 +1,5 @@
+![](https://github.com/Issmuth/Issmuth/blob/main/efbca7d7-a64b-4ebd-a243-88c1aece0e64.gif)
+
 
 ## 👀 Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Issmuth) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Issmuth) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Issmuth) 
