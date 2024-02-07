@@ -1,15 +1,16 @@
 <img src="https://github.com/Issmuth/Issmuth/blob/main/efbca7d7-a64b-4ebd-a243-88c1aece0e64.gif" alt="Alt Text 1" align="right" width="50%" style="display: inline-block;"/>
 
-<div style="display: inline-block;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left" width="40%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left" width="40%"/>
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=4DC6F7&random=false&width=435&lines=Hi+there%2C+I'm+Ismael.;A+Junior+Software+Developer.;A+Designer+and+Casual+Artist.;Feel+free+to+roam+about.)
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=4DC6F7&random=false&width=435&lines=Hi+there%2C+I'm+Ismael.;A+Junior+Software+Developer.;A+Designer+and+Casual+Artist.;Feel+free+to+roam+about"/></a>
+</p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left" width="40%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left" width="40%"/>
 
 
-  # 💫 Bio:
-  🏛 Computer Science at Hawassa University<br>🎓 ALX SE Student<br>🌐 Web and App Development<br>💡 UI/UX<br>🎨 Graphics Design
+# 💫 Bio:
+🏛 Computer Science at Hawassa University<br>🎓 ALX SE Student<br>🌐 Web and App Development<br>💡 UI/UX<br>🎨 Graphics Design
 
 ---
 </div>
