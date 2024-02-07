@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=4DC6F7&random=false&width=435&lines=Hi+there%2C+I'm+Ismael.;A+Junior+Software+Developer.;A+Designer+and+Casual+Artist.;Feel+free+to+roam+about"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left" width="40%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="left" width="40%" style="display: inline-block;"/>
 
 
 # 💫 Bio:
