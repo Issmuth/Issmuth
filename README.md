@@ -27,10 +27,11 @@
 ---
 # 📊 Stats:
 
-
-
 ![issmuth's Stats](https://github-readme-stats.vercel.app/api?username=issmuth&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 ![issmuth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=issmuth&theme=algolia&hide_border=true)
+
+<br>
+
 ![issmuth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issmuth&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 <img src="https://github.com/Issmuth/Issmuth/blob/main/efbca7d7-a64b-4ebd-a243-88c1aece0e64.gif" alt="Spacegif" align= "right" width="40%">
 <img src="https://github.com/Issmuth/Issmuth/blob/main/output-onlinegiftools.gif" alt="Alt Text 1" align="right" width="300" />
