@@ -39,9 +39,5 @@
 <br>
 <br>
 
-## 🏆 Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Issmuth&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
----
 ![](https://komarev.com/ghpvc/?username=Issmuth&color=blue)
